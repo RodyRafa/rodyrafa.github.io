@@ -4,9 +4,9 @@
   "warnings": [
   ],
   "version": "4.10.2",
-  "hash": "f790430d8adc29835215",
-  "time": 255,
-  "builtAt": 1535392459422,
+  "hash": "4508d943a62c82e74b28",
+  "time": 455,
+  "builtAt": 1535407106124,
   "publicPath": ".//",
   "outputPath": "/Users/u001351/Jobs/XPEcommerceCheckout/dist",
   "assetsByChunkName": {
@@ -15,7 +15,7 @@
   "assets": [
     {
       "name": "./app.js",
-      "size": 1228797,
+      "size": 1228802,
       "chunks": [
         "app"
       ],
@@ -60,14 +60,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 440077,
+      "size": 440078,
       "names": [
         "app"
       ],
       "files": [
         "./app.js"
       ],
-      "hash": "2c85305f396f1943080a",
+      "hash": "03248c377bbb2f337276",
       "siblings": [
       ],
       "parents": [
@@ -2125,14 +2125,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -2207,14 +2202,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -2284,14 +2274,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -2418,14 +2403,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -2505,14 +2485,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -2612,14 +2587,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -2794,14 +2764,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -2896,14 +2861,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3020,14 +2980,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3127,14 +3082,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3224,14 +3174,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3335,14 +3280,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3446,14 +3386,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3548,14 +3483,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3650,14 +3580,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3752,14 +3677,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3877,14 +3797,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -3983,14 +3898,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -4090,14 +4000,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -4192,14 +4097,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             },
             {
               "id": "./src/helpers/formaters.js",
@@ -5123,6 +5023,15 @@
               "loc": "1:27-86"
             },
             {
+              "moduleId": "./node_modules/css-loader/index.js??ref--5-1!./node_modules/postcss-loader/lib/index.js??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
+              "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/style.scss",
+              "module": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
+              "moduleName": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
+              "type": "cjs require",
+              "userRequest": "../../../node_modules/css-loader/lib/css-base.js",
+              "loc": "1:27-86"
+            },
+            {
               "moduleId": "./node_modules/css-loader/index.js??ref--5-1!./node_modules/postcss-loader/lib/index.js??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/ProductListItem/style.scss",
               "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/style.scss",
               "module": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/ProductListItem/style.scss",
@@ -5163,15 +5072,6 @@
               "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/TermsListItem/style.scss",
               "module": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/TermsListItem/style.scss",
               "moduleName": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/TermsListItem/style.scss",
-              "type": "cjs require",
-              "userRequest": "../../../node_modules/css-loader/lib/css-base.js",
-              "loc": "1:27-86"
-            },
-            {
-              "moduleId": "./node_modules/css-loader/index.js??ref--5-1!./node_modules/postcss-loader/lib/index.js??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
-              "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/style.scss",
-              "module": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
-              "moduleName": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
               "type": "cjs require",
               "userRequest": "../../../node_modules/css-loader/lib/css-base.js",
               "loc": "1:27-86"
@@ -7806,6 +7706,15 @@
               "loc": "16:13-76"
             },
             {
+              "moduleId": "./src/components/Confirm/style.scss",
+              "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/style-loader/index.js??ref--5-0!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/style.scss",
+              "module": "./src/components/Confirm/style.scss",
+              "moduleName": "./src/components/Confirm/style.scss",
+              "type": "cjs require",
+              "userRequest": "!../../../node_modules/style-loader/lib/addStyles.js",
+              "loc": "16:13-76"
+            },
+            {
               "moduleId": "./src/components/ProductListItem/style.scss",
               "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/style-loader/index.js??ref--5-0!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/style.scss",
               "module": "./src/components/ProductListItem/style.scss",
@@ -7846,15 +7755,6 @@
               "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/style-loader/index.js??ref--5-0!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/TermsListItem/style.scss",
               "module": "./src/components/TermsListItem/style.scss",
               "moduleName": "./src/components/TermsListItem/style.scss",
-              "type": "cjs require",
-              "userRequest": "!../../../node_modules/style-loader/lib/addStyles.js",
-              "loc": "16:13-76"
-            },
-            {
-              "moduleId": "./src/components/Confirm/style.scss",
-              "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/style-loader/index.js??ref--5-0!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/style.scss",
-              "module": "./src/components/Confirm/style.scss",
-              "moduleName": "./src/components/Confirm/style.scss",
               "type": "cjs require",
               "userRequest": "!../../../node_modules/style-loader/lib/addStyles.js",
               "loc": "16:13-76"
@@ -8559,7 +8459,7 @@
           "index2": 53,
           "size": 1542,
           "cacheable": true,
-          "built": true,
+          "built": false,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -9565,9 +9465,9 @@
           "name": "./src/config/initializers/index.js",
           "index": 1,
           "index2": 91,
-          "size": 1206,
+          "size": 1207,
           "cacheable": true,
-          "built": false,
+          "built": true,
           "optional": false,
           "prefetched": false,
           "chunks": [
@@ -9603,8 +9503,8 @@
           "optimizationBailout": [
           ],
           "depth": 1,
-          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _stringify = require('babel-runtime/core-js/json/stringify');\n\nvar _stringify2 = _interopRequireDefault(_stringify);\n\nvar _cart = require('./cart');\n\nvar _cart2 = _interopRequireDefault(_cart);\n\nvar _actions = require('./actions');\n\nvar _actions2 = _interopRequireDefault(_actions);\n\nvar _loadPush = require('../../helpers/loadPush');\n\nvar _loadPush2 = _interopRequireDefault(_loadPush);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n//import mockProducData from 'settings/payloadcheckout.json';\n\nexports.default = function () {\n  window.UpdateValues = function (orderId) {\n    (0, _loadPush2.default)(orderId, window.initEcommerce);\n  };\n  window.initEcommerce = function (payload) {\n    window.orderId = payload.data ? payload.data.id : '';\n    (0, _cart2.default)(payload.data);\n  };\n  window.interaction = function (state) {\n    var stateValue = state == 'approved' ? 'true' : 'false';\n    var data = { OrderId: window.orderId, Accepted: stateValue };\n\n    document.location = \"app://?state=\" + state + \"&edited=true&data=\" + (0, _stringify2.default)(data);\n  };\n};",
-          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _stringify = __webpack_require__(/*! babel-runtime/core-js/json/stringify */ \"./node_modules/babel-runtime/core-js/json/stringify.js\");\n\nvar _stringify2 = _interopRequireDefault(_stringify);\n\nvar _cart = __webpack_require__(/*! ./cart */ \"./src/config/initializers/cart.js\");\n\nvar _cart2 = _interopRequireDefault(_cart);\n\nvar _actions = __webpack_require__(/*! ./actions */ \"./src/config/initializers/actions.js\");\n\nvar _actions2 = _interopRequireDefault(_actions);\n\nvar _loadPush = __webpack_require__(/*! ../../helpers/loadPush */ \"./src/helpers/loadPush.js\");\n\nvar _loadPush2 = _interopRequireDefault(_loadPush);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n//import mockProducData from 'settings/payloadcheckout.json';\n\nexports.default = function () {\n  window.UpdateValues = function (orderId) {\n    (0, _loadPush2.default)(orderId, window.initEcommerce);\n  };\n  window.initEcommerce = function (payload) {\n    window.orderId = payload.data ? payload.data.id : '';\n    (0, _cart2.default)(payload.data);\n  };\n  window.interaction = function (state) {\n    var stateValue = state == 'approved' ? 'true' : 'false';\n    var data = { OrderId: window.orderId, Accepted: stateValue };\n\n    document.location = \"app://?state=\" + state + \"&edited=true&data=\" + (0, _stringify2.default)(data);\n  };\n};\n\n/***/ }"
+          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _stringify = require('babel-runtime/core-js/json/stringify');\n\nvar _stringify2 = _interopRequireDefault(_stringify);\n\nvar _cart = require('./cart');\n\nvar _cart2 = _interopRequireDefault(_cart);\n\nvar _actions = require('./actions');\n\nvar _actions2 = _interopRequireDefault(_actions);\n\nvar _loadPush = require('../../helpers/loadPush');\n\nvar _loadPush2 = _interopRequireDefault(_loadPush);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n//import mockProducData from 'settings/payloadcheckout.json';\n\nexports.default = function () {\n  window.UpdateValues = function (orderId) {\n    (0, _loadPush2.default)(orderId, window.initEcommerce);\n  };\n  window.initEcommerce = function (payload) {\n    window.orderId = payload.data ? payload.data.id : '';\n    (0, _cart2.default)(payload.data);\n  };\n\n  window.interaction = function (state) {\n    var stateValue = state == 'approved' ? 'true' : 'false';\n    var data = { OrderId: window.orderId, Accepted: stateValue };\n\n    document.location = \"app://?state=\" + state + \"&edited=true&data=\" + (0, _stringify2.default)(data);\n  };\n};",
+          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _stringify = __webpack_require__(/*! babel-runtime/core-js/json/stringify */ \"./node_modules/babel-runtime/core-js/json/stringify.js\");\n\nvar _stringify2 = _interopRequireDefault(_stringify);\n\nvar _cart = __webpack_require__(/*! ./cart */ \"./src/config/initializers/cart.js\");\n\nvar _cart2 = _interopRequireDefault(_cart);\n\nvar _actions = __webpack_require__(/*! ./actions */ \"./src/config/initializers/actions.js\");\n\nvar _actions2 = _interopRequireDefault(_actions);\n\nvar _loadPush = __webpack_require__(/*! ../../helpers/loadPush */ \"./src/helpers/loadPush.js\");\n\nvar _loadPush2 = _interopRequireDefault(_loadPush);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n//import mockProducData from 'settings/payloadcheckout.json';\n\nexports.default = function () {\n  window.UpdateValues = function (orderId) {\n    (0, _loadPush2.default)(orderId, window.initEcommerce);\n  };\n  window.initEcommerce = function (payload) {\n    window.orderId = payload.data ? payload.data.id : '';\n    (0, _cart2.default)(payload.data);\n  };\n\n  window.interaction = function (state) {\n    var stateValue = state == 'approved' ? 'true' : 'false';\n    var data = { OrderId: window.orderId, Accepted: stateValue };\n\n    document.location = \"app://?state=\" + state + \"&edited=true&data=\" + (0, _stringify2.default)(data);\n  };\n};\n\n/***/ }"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -9620,9 +9520,9 @@
           "chunks": [
             "app"
           ],
-          "issuer": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "issuerId": "./src/components/ProductListItem/index.js",
-          "issuerName": "./src/components/ProductListItem/index.js",
+          "issuer": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "issuerId": "./src/components/Confirm/index.js",
+          "issuerName": "./src/components/Confirm/index.js",
           "issuerPath": [
             {
               "id": "./src/index.js",
@@ -9645,14 +9545,9 @@
               "name": "./src/components/Cart/index.js"
             },
             {
-              "id": "./src/components/ProductList/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-              "name": "./src/components/ProductList/index.js"
-            },
-            {
-              "id": "./src/components/ProductListItem/index.js",
-              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "name": "./src/components/ProductListItem/index.js"
+              "id": "./src/components/Confirm/index.js",
+              "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+              "name": "./src/components/Confirm/index.js"
             }
           ],
           "failed": false,
@@ -9662,15 +9557,6 @@
           ],
           "reasons": [
             {
-              "moduleId": "./src/components/ProductListItem/index.js",
-              "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-              "module": "./src/components/ProductListItem/index.js",
-              "moduleName": "./src/components/ProductListItem/index.js",
-              "type": "cjs require",
-              "userRequest": "../../helpers/formaters",
-              "loc": "9:17-51"
-            },
-            {
               "moduleId": "./src/components/Confirm/index.js",
               "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
               "module": "./src/components/Confirm/index.js",
@@ -9678,6 +9564,15 @@
               "type": "cjs require",
               "userRequest": "../../helpers/formaters",
               "loc": "13:17-51"
+            },
+            {
+              "moduleId": "./src/components/ProductListItem/index.js",
+              "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
+              "module": "./src/components/ProductListItem/index.js",
+              "moduleName": "./src/components/ProductListItem/index.js",
+              "type": "cjs require",
+              "userRequest": "../../helpers/formaters",
+              "loc": "9:17-51"
             }
           ],
           "providedExports": null,
@@ -11865,14 +11760,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -11946,14 +11836,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -12022,14 +11907,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -12154,14 +12034,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -12240,14 +12115,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -12346,14 +12216,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -12526,14 +12391,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -12627,14 +12487,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -12750,14 +12605,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -12856,14 +12706,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -12952,14 +12797,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -13062,14 +12902,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -13172,14 +13007,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -13273,14 +13103,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -13374,14 +13199,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -13475,14 +13295,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -13599,14 +13414,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -13704,14 +13514,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -13810,14 +13615,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -13911,14 +13711,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         },
         {
           "id": "./src/helpers/formaters.js",
@@ -14830,6 +14625,15 @@
           "loc": "1:27-86"
         },
         {
+          "moduleId": "./node_modules/css-loader/index.js??ref--5-1!./node_modules/postcss-loader/lib/index.js??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
+          "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/style.scss",
+          "module": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
+          "moduleName": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
+          "type": "cjs require",
+          "userRequest": "../../../node_modules/css-loader/lib/css-base.js",
+          "loc": "1:27-86"
+        },
+        {
           "moduleId": "./node_modules/css-loader/index.js??ref--5-1!./node_modules/postcss-loader/lib/index.js??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/ProductListItem/style.scss",
           "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/style.scss",
           "module": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/ProductListItem/style.scss",
@@ -14870,15 +14674,6 @@
           "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/TermsListItem/style.scss",
           "module": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/TermsListItem/style.scss",
           "moduleName": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/TermsListItem/style.scss",
-          "type": "cjs require",
-          "userRequest": "../../../node_modules/css-loader/lib/css-base.js",
-          "loc": "1:27-86"
-        },
-        {
-          "moduleId": "./node_modules/css-loader/index.js??ref--5-1!./node_modules/postcss-loader/lib/index.js??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
-          "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/style.scss",
-          "module": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
-          "moduleName": "./node_modules/css-loader??ref--5-1!./node_modules/postcss-loader/lib??ref--5-2!./node_modules/sass-loader/lib/loader.js??ref--5-3!./src/components/Confirm/style.scss",
           "type": "cjs require",
           "userRequest": "../../../node_modules/css-loader/lib/css-base.js",
           "loc": "1:27-86"
@@ -17506,6 +17301,15 @@
           "loc": "16:13-76"
         },
         {
+          "moduleId": "./src/components/Confirm/style.scss",
+          "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/style-loader/index.js??ref--5-0!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/style.scss",
+          "module": "./src/components/Confirm/style.scss",
+          "moduleName": "./src/components/Confirm/style.scss",
+          "type": "cjs require",
+          "userRequest": "!../../../node_modules/style-loader/lib/addStyles.js",
+          "loc": "16:13-76"
+        },
+        {
           "moduleId": "./src/components/ProductListItem/style.scss",
           "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/style-loader/index.js??ref--5-0!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/style.scss",
           "module": "./src/components/ProductListItem/style.scss",
@@ -17546,15 +17350,6 @@
           "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/style-loader/index.js??ref--5-0!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/TermsListItem/style.scss",
           "module": "./src/components/TermsListItem/style.scss",
           "moduleName": "./src/components/TermsListItem/style.scss",
-          "type": "cjs require",
-          "userRequest": "!../../../node_modules/style-loader/lib/addStyles.js",
-          "loc": "16:13-76"
-        },
-        {
-          "moduleId": "./src/components/Confirm/style.scss",
-          "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/style-loader/index.js??ref--5-0!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/css-loader/index.js??ref--5-1!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/postcss-loader/lib/index.js??ref--5-2!/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/sass-loader/lib/loader.js??ref--5-3!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/style.scss",
-          "module": "./src/components/Confirm/style.scss",
-          "moduleName": "./src/components/Confirm/style.scss",
           "type": "cjs require",
           "userRequest": "!../../../node_modules/style-loader/lib/addStyles.js",
           "loc": "16:13-76"
@@ -18247,7 +18042,7 @@
       "index2": 53,
       "size": 1542,
       "cacheable": true,
-      "built": true,
+      "built": false,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -19238,9 +19033,9 @@
       "name": "./src/config/initializers/index.js",
       "index": 1,
       "index2": 91,
-      "size": 1206,
+      "size": 1207,
       "cacheable": true,
-      "built": false,
+      "built": true,
       "optional": false,
       "prefetched": false,
       "chunks": [
@@ -19276,7 +19071,7 @@
       "optimizationBailout": [
       ],
       "depth": 1,
-      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _stringify = require('babel-runtime/core-js/json/stringify');\n\nvar _stringify2 = _interopRequireDefault(_stringify);\n\nvar _cart = require('./cart');\n\nvar _cart2 = _interopRequireDefault(_cart);\n\nvar _actions = require('./actions');\n\nvar _actions2 = _interopRequireDefault(_actions);\n\nvar _loadPush = require('../../helpers/loadPush');\n\nvar _loadPush2 = _interopRequireDefault(_loadPush);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n//import mockProducData from 'settings/payloadcheckout.json';\n\nexports.default = function () {\n  window.UpdateValues = function (orderId) {\n    (0, _loadPush2.default)(orderId, window.initEcommerce);\n  };\n  window.initEcommerce = function (payload) {\n    window.orderId = payload.data ? payload.data.id : '';\n    (0, _cart2.default)(payload.data);\n  };\n  window.interaction = function (state) {\n    var stateValue = state == 'approved' ? 'true' : 'false';\n    var data = { OrderId: window.orderId, Accepted: stateValue };\n\n    document.location = \"app://?state=\" + state + \"&edited=true&data=\" + (0, _stringify2.default)(data);\n  };\n};"
+      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _stringify = require('babel-runtime/core-js/json/stringify');\n\nvar _stringify2 = _interopRequireDefault(_stringify);\n\nvar _cart = require('./cart');\n\nvar _cart2 = _interopRequireDefault(_cart);\n\nvar _actions = require('./actions');\n\nvar _actions2 = _interopRequireDefault(_actions);\n\nvar _loadPush = require('../../helpers/loadPush');\n\nvar _loadPush2 = _interopRequireDefault(_loadPush);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n//import mockProducData from 'settings/payloadcheckout.json';\n\nexports.default = function () {\n  window.UpdateValues = function (orderId) {\n    (0, _loadPush2.default)(orderId, window.initEcommerce);\n  };\n  window.initEcommerce = function (payload) {\n    window.orderId = payload.data ? payload.data.id : '';\n    (0, _cart2.default)(payload.data);\n  };\n\n  window.interaction = function (state) {\n    var stateValue = state == 'approved' ? 'true' : 'false';\n    var data = { OrderId: window.orderId, Accepted: stateValue };\n\n    document.location = \"app://?state=\" + state + \"&edited=true&data=\" + (0, _stringify2.default)(data);\n  };\n};"
     },
     {
       "id": "./src/helpers/formaters.js",
@@ -19292,9 +19087,9 @@
       "chunks": [
         "app"
       ],
-      "issuer": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-      "issuerId": "./src/components/ProductListItem/index.js",
-      "issuerName": "./src/components/ProductListItem/index.js",
+      "issuer": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+      "issuerId": "./src/components/Confirm/index.js",
+      "issuerName": "./src/components/Confirm/index.js",
       "issuerPath": [
         {
           "id": "./src/index.js",
@@ -19317,14 +19112,9 @@
           "name": "./src/components/Cart/index.js"
         },
         {
-          "id": "./src/components/ProductList/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductList/index.js",
-          "name": "./src/components/ProductList/index.js"
-        },
-        {
-          "id": "./src/components/ProductListItem/index.js",
-          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "name": "./src/components/ProductListItem/index.js"
+          "id": "./src/components/Confirm/index.js",
+          "identifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
+          "name": "./src/components/Confirm/index.js"
         }
       ],
       "failed": false,
@@ -19334,15 +19124,6 @@
       ],
       "reasons": [
         {
-          "moduleId": "./src/components/ProductListItem/index.js",
-          "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
-          "module": "./src/components/ProductListItem/index.js",
-          "moduleName": "./src/components/ProductListItem/index.js",
-          "type": "cjs require",
-          "userRequest": "../../helpers/formaters",
-          "loc": "9:17-51"
-        },
-        {
           "moduleId": "./src/components/Confirm/index.js",
           "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/Confirm/index.js",
           "module": "./src/components/Confirm/index.js",
@@ -19350,6 +19131,15 @@
           "type": "cjs require",
           "userRequest": "../../helpers/formaters",
           "loc": "13:17-51"
+        },
+        {
+          "moduleId": "./src/components/ProductListItem/index.js",
+          "moduleIdentifier": "/Users/u001351/Jobs/XPEcommerceCheckout/node_modules/babel-loader/lib/index.js!/Users/u001351/Jobs/XPEcommerceCheckout/src/components/ProductListItem/index.js",
+          "module": "./src/components/ProductListItem/index.js",
+          "moduleName": "./src/components/ProductListItem/index.js",
+          "type": "cjs require",
+          "userRequest": "../../helpers/formaters",
+          "loc": "9:17-51"
         }
       ],
       "providedExports": null,
@@ -19669,7 +19459,5 @@
       ],
       "name": "html-webpack-plugin for \"index.html\""
     }
-  ]
-}  }
   ]
 }
