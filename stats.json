@@ -4,9 +4,9 @@
   "warnings": [
   ],
   "version": "4.10.2",
-  "hash": "da2dc8f4fc99cdd6a99b",
-  "time": 418,
-  "builtAt": 1535382027240,
+  "hash": "f790430d8adc29835215",
+  "time": 255,
+  "builtAt": 1535392459422,
   "publicPath": ".//",
   "outputPath": "/Users/u001351/Jobs/XPEcommerceCheckout/dist",
   "assetsByChunkName": {
@@ -15,7 +15,7 @@
   "assets": [
     {
       "name": "./app.js",
-      "size": 1228742,
+      "size": 1228797,
       "chunks": [
         "app"
       ],
@@ -60,14 +60,14 @@
       "rendered": true,
       "initial": true,
       "entry": true,
-      "size": 440026,
+      "size": 440077,
       "names": [
         "app"
       ],
       "files": [
         "./app.js"
       ],
-      "hash": "4b5c9d8188d37f363e13",
+      "hash": "2c85305f396f1943080a",
       "siblings": [
       ],
       "parents": [
@@ -8438,7 +8438,7 @@
           "name": "./src/components/Cart/index.js",
           "index": 6,
           "index2": 54,
-          "size": 1226,
+          "size": 1227,
           "cacheable": true,
           "built": false,
           "optional": false,
@@ -8486,8 +8486,8 @@
           "optimizationBailout": [
           ],
           "depth": 3,
-          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nrequire('./style.scss');\n\nvar _ProductList = require('../ProductList');\n\nvar _ProductList2 = _interopRequireDefault(_ProductList);\n\nvar _BoxConfirm = require('../BoxConfirm');\n\nvar _BoxConfirm2 = _interopRequireDefault(_BoxConfirm);\n\nvar _Terms = require('../Terms');\n\nvar _Terms2 = _interopRequireDefault(_Terms);\n\nvar _Confirm = require('../Confirm');\n\nvar _Confirm2 = _interopRequireDefault(_Confirm);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nexports.default = function (data) {\n  return '\\n  <div class=\"swiper-container\">\\n    <div class=\"swiper-wrapper\">\\n      <div class=\"swiper-slide\">\\n        <div class=\"wrapper-ecommerce\">\\n          <h2 class=\"title\">Ol\\xE1, o seu assessor montou esse carrinho de produtos para voc\\xEA</h2>\\n          ' + (0, _ProductList2.default)(data.items) + '\\n        </div>\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Terms2.default)(data.items) + '\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Confirm2.default)(data) + '\\n      </div>\\n    </div>\\n  </div>\\n  ' + (0, _BoxConfirm2.default)() + '\\n  ';\n};",
-          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\n__webpack_require__(/*! ./style.scss */ \"./src/components/Cart/style.scss\");\n\nvar _ProductList = __webpack_require__(/*! ../ProductList */ \"./src/components/ProductList/index.js\");\n\nvar _ProductList2 = _interopRequireDefault(_ProductList);\n\nvar _BoxConfirm = __webpack_require__(/*! ../BoxConfirm */ \"./src/components/BoxConfirm/index.js\");\n\nvar _BoxConfirm2 = _interopRequireDefault(_BoxConfirm);\n\nvar _Terms = __webpack_require__(/*! ../Terms */ \"./src/components/Terms/index.js\");\n\nvar _Terms2 = _interopRequireDefault(_Terms);\n\nvar _Confirm = __webpack_require__(/*! ../Confirm */ \"./src/components/Confirm/index.js\");\n\nvar _Confirm2 = _interopRequireDefault(_Confirm);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nexports.default = function (data) {\n  return '\\n  <div class=\"swiper-container\">\\n    <div class=\"swiper-wrapper\">\\n      <div class=\"swiper-slide\">\\n        <div class=\"wrapper-ecommerce\">\\n          <h2 class=\"title\">Ol\\xE1, o seu assessor montou esse carrinho de produtos para voc\\xEA</h2>\\n          ' + (0, _ProductList2.default)(data.items) + '\\n        </div>\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Terms2.default)(data.items) + '\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Confirm2.default)(data) + '\\n      </div>\\n    </div>\\n  </div>\\n  ' + (0, _BoxConfirm2.default)() + '\\n  ';\n};\n\n/***/ }"
+          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nrequire('./style.scss');\n\nvar _ProductList = require('../ProductList');\n\nvar _ProductList2 = _interopRequireDefault(_ProductList);\n\nvar _BoxConfirm = require('../BoxConfirm');\n\nvar _BoxConfirm2 = _interopRequireDefault(_BoxConfirm);\n\nvar _Terms = require('../Terms');\n\nvar _Terms2 = _interopRequireDefault(_Terms);\n\nvar _Confirm = require('../Confirm');\n\nvar _Confirm2 = _interopRequireDefault(_Confirm);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nexports.default = function (data) {\n  return '\\n  <div class=\"swiper-container\">\\n    <div class=\"swiper-wrapper\">\\n      <div class=\"swiper-slide\">\\n        <div class=\"wrapper-ecommerce\">\\n          <h2 class=\"title\">Ol\\xE1! O seu assessor montou esse carrinho de produtos para voc\\xEA;</h2>\\n          ' + (0, _ProductList2.default)(data.items) + '\\n        </div>\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Terms2.default)(data.items) + '\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Confirm2.default)(data) + '\\n      </div>\\n    </div>\\n  </div>\\n  ' + (0, _BoxConfirm2.default)() + '\\n  ';\n};",
+          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\n__webpack_require__(/*! ./style.scss */ \"./src/components/Cart/style.scss\");\n\nvar _ProductList = __webpack_require__(/*! ../ProductList */ \"./src/components/ProductList/index.js\");\n\nvar _ProductList2 = _interopRequireDefault(_ProductList);\n\nvar _BoxConfirm = __webpack_require__(/*! ../BoxConfirm */ \"./src/components/BoxConfirm/index.js\");\n\nvar _BoxConfirm2 = _interopRequireDefault(_BoxConfirm);\n\nvar _Terms = __webpack_require__(/*! ../Terms */ \"./src/components/Terms/index.js\");\n\nvar _Terms2 = _interopRequireDefault(_Terms);\n\nvar _Confirm = __webpack_require__(/*! ../Confirm */ \"./src/components/Confirm/index.js\");\n\nvar _Confirm2 = _interopRequireDefault(_Confirm);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nexports.default = function (data) {\n  return '\\n  <div class=\"swiper-container\">\\n    <div class=\"swiper-wrapper\">\\n      <div class=\"swiper-slide\">\\n        <div class=\"wrapper-ecommerce\">\\n          <h2 class=\"title\">Ol\\xE1! O seu assessor montou esse carrinho de produtos para voc\\xEA;</h2>\\n          ' + (0, _ProductList2.default)(data.items) + '\\n        </div>\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Terms2.default)(data.items) + '\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Confirm2.default)(data) + '\\n      </div>\\n    </div>\\n  </div>\\n  ' + (0, _BoxConfirm2.default)() + '\\n  ';\n};\n\n/***/ }"
         },
         {
           "id": "./src/components/Cart/style.scss",
@@ -8557,7 +8557,7 @@
           "name": "./src/components/Confirm/index.js",
           "index": 55,
           "index2": 53,
-          "size": 1548,
+          "size": 1542,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -8610,8 +8610,8 @@
           "optimizationBailout": [
           ],
           "depth": 4,
-          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _Title = require('../Title');\n\nvar _Title2 = _interopRequireDefault(_Title);\n\nrequire('./style.scss');\n\nvar _formaters = require('../../helpers/formaters');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar formatter = new _formaters.FormatterHelper();\n\nexports.default = function (item) {\n  return '\\n    <div class=\"wrapper-confirmation\">\\n      ' + (0, _Title2.default)('Confirmação checkout') + '\\n      <ul class=\"checkout-list\">\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Assessor</span>\\n          <span class=\"checkout-list__desc\">' + item.requesterLogin + '</span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Produtos</span>\\n          <span class=\"checkout-list__desc\">\\n            <ul class=\"checkout-list__list-products\">\\n              ' + item.items.map(function (item) {\n    return '\\n                <li class=\"checkout-list__list-products__item\">' + item.product.name + '<p> R$ ' + formatter.formatCurrencyMain(item.totalValue) + ' </p></li>\\n              ';\n  }).join('') + '\\n            </ul>\\n          </span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Total</span>\\n          <span class=\"checkout-list__desc\">R$ ' + formatter.formatCurrencyMain(item.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </div>\\n  ';\n};",
-          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _Title = __webpack_require__(/*! ../Title */ \"./src/components/Title/index.js\");\n\nvar _Title2 = _interopRequireDefault(_Title);\n\n__webpack_require__(/*! ./style.scss */ \"./src/components/Confirm/style.scss\");\n\nvar _formaters = __webpack_require__(/*! ../../helpers/formaters */ \"./src/helpers/formaters.js\");\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar formatter = new _formaters.FormatterHelper();\n\nexports.default = function (item) {\n  return '\\n    <div class=\"wrapper-confirmation\">\\n      ' + (0, _Title2.default)('Confirmação checkout') + '\\n      <ul class=\"checkout-list\">\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Assessor</span>\\n          <span class=\"checkout-list__desc\">' + item.requesterLogin + '</span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Produtos</span>\\n          <span class=\"checkout-list__desc\">\\n            <ul class=\"checkout-list__list-products\">\\n              ' + item.items.map(function (item) {\n    return '\\n                <li class=\"checkout-list__list-products__item\">' + item.product.name + '<p> R$ ' + formatter.formatCurrencyMain(item.totalValue) + ' </p></li>\\n              ';\n  }).join('') + '\\n            </ul>\\n          </span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Total</span>\\n          <span class=\"checkout-list__desc\">R$ ' + formatter.formatCurrencyMain(item.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </div>\\n  ';\n};\n\n/***/ }"
+          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _Title = require('../Title');\n\nvar _Title2 = _interopRequireDefault(_Title);\n\nrequire('./style.scss');\n\nvar _formaters = require('../../helpers/formaters');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar formatter = new _formaters.FormatterHelper();\n\nexports.default = function (item) {\n  return '\\n    <div class=\"wrapper-confirmation\">\\n      ' + (0, _Title2.default)('Confirmação checkout') + '\\n      <ul class=\"checkout-list\">\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Assessor</span>\\n          <span class=\"checkout-list__desc\">' + item.requesterLogin + '</span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Produtos</span>\\n          <span class=\"checkout-list__desc\">\\n            <ul class=\"checkout-list__list-products\">\\n              ' + item.items.map(function (item) {\n    return '\\n                <li class=\"checkout-list__list-products__item\">' + item.product.name + '<p> ' + formatter.formatCurrencyMain(item.totalValue) + ' </p></li>\\n              ';\n  }).join('') + '\\n            </ul>\\n          </span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Total</span>\\n          <span class=\"checkout-list__desc\">' + formatter.formatCurrencyMain(item.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </div>\\n  ';\n};",
+          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _Title = __webpack_require__(/*! ../Title */ \"./src/components/Title/index.js\");\n\nvar _Title2 = _interopRequireDefault(_Title);\n\n__webpack_require__(/*! ./style.scss */ \"./src/components/Confirm/style.scss\");\n\nvar _formaters = __webpack_require__(/*! ../../helpers/formaters */ \"./src/helpers/formaters.js\");\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar formatter = new _formaters.FormatterHelper();\n\nexports.default = function (item) {\n  return '\\n    <div class=\"wrapper-confirmation\">\\n      ' + (0, _Title2.default)('Confirmação checkout') + '\\n      <ul class=\"checkout-list\">\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Assessor</span>\\n          <span class=\"checkout-list__desc\">' + item.requesterLogin + '</span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Produtos</span>\\n          <span class=\"checkout-list__desc\">\\n            <ul class=\"checkout-list__list-products\">\\n              ' + item.items.map(function (item) {\n    return '\\n                <li class=\"checkout-list__list-products__item\">' + item.product.name + '<p> ' + formatter.formatCurrencyMain(item.totalValue) + ' </p></li>\\n              ';\n  }).join('') + '\\n            </ul>\\n          </span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Total</span>\\n          <span class=\"checkout-list__desc\">' + formatter.formatCurrencyMain(item.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </div>\\n  ';\n};\n\n/***/ }"
         },
         {
           "id": "./src/components/Confirm/style.scss",
@@ -8815,7 +8815,7 @@
           "name": "./src/components/ProductListItem/index.js",
           "index": 13,
           "index2": 31,
-          "size": 770,
+          "size": 768,
           "cacheable": true,
           "built": false,
           "optional": false,
@@ -8873,8 +8873,8 @@
           "optimizationBailout": [
           ],
           "depth": 5,
-          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nrequire('./style.scss');\n\nvar _formaters = require('../../helpers/formaters');\n\nvar formatterHelper = new _formaters.FormatterHelper();\n\nexports.default = function (items) {\n  return '\\n    <li class=\"product-list__item\">\\n      <ul class=\"product-list__description-item\">\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__product-name\">' + items.product.name + '</span>\\n        </li>\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__title\">SubTotal</span>\\n          <span class=\"product-list__desc\">R$ ' + formatterHelper.formatCurrencyMain(items.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </li>\\n  ';\n};",
-          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\n__webpack_require__(/*! ./style.scss */ \"./src/components/ProductListItem/style.scss\");\n\nvar _formaters = __webpack_require__(/*! ../../helpers/formaters */ \"./src/helpers/formaters.js\");\n\nvar formatterHelper = new _formaters.FormatterHelper();\n\nexports.default = function (items) {\n  return '\\n    <li class=\"product-list__item\">\\n      <ul class=\"product-list__description-item\">\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__product-name\">' + items.product.name + '</span>\\n        </li>\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__title\">SubTotal</span>\\n          <span class=\"product-list__desc\">R$ ' + formatterHelper.formatCurrencyMain(items.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </li>\\n  ';\n};\n\n/***/ }"
+          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nrequire('./style.scss');\n\nvar _formaters = require('../../helpers/formaters');\n\nvar formatterHelper = new _formaters.FormatterHelper();\n\nexports.default = function (items) {\n  return '\\n    <li class=\"product-list__item\">\\n      <ul class=\"product-list__description-item\">\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__product-name\">' + items.product.name + '</span>\\n        </li>\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__title\">SubTotal</span>\\n          <span class=\"product-list__desc\"> ' + formatterHelper.formatCurrencyMain(items.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </li>\\n  ';\n};",
+          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\n__webpack_require__(/*! ./style.scss */ \"./src/components/ProductListItem/style.scss\");\n\nvar _formaters = __webpack_require__(/*! ../../helpers/formaters */ \"./src/helpers/formaters.js\");\n\nvar formatterHelper = new _formaters.FormatterHelper();\n\nexports.default = function (items) {\n  return '\\n    <li class=\"product-list__item\">\\n      <ul class=\"product-list__description-item\">\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__product-name\">' + items.product.name + '</span>\\n        </li>\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__title\">SubTotal</span>\\n          <span class=\"product-list__desc\"> ' + formatterHelper.formatCurrencyMain(items.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </li>\\n  ';\n};\n\n/***/ }"
         },
         {
           "id": "./src/components/ProductListItem/style.scss",
@@ -9612,7 +9612,7 @@
           "name": "./src/helpers/formaters.js",
           "index": 16,
           "index2": 30,
-          "size": 1122,
+          "size": 1180,
           "cacheable": true,
           "built": false,
           "optional": false,
@@ -9684,8 +9684,8 @@
           "optimizationBailout": [
           ],
           "depth": 5,
-          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.FormatterHelper = undefined;\n\nvar _classCallCheck2 = require('babel-runtime/helpers/classCallCheck');\n\nvar _classCallCheck3 = _interopRequireDefault(_classCallCheck2);\n\nvar _createClass2 = require('babel-runtime/helpers/createClass');\n\nvar _createClass3 = _interopRequireDefault(_createClass2);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar FormatterHelper = exports.FormatterHelper = function () {\n  function FormatterHelper() {\n    (0, _classCallCheck3.default)(this, FormatterHelper);\n  }\n\n  (0, _createClass3.default)(FormatterHelper, [{\n    key: 'formatCurrencyMain',\n    value: function formatCurrencyMain(value) {\n      var priceNumber = String(value.toFixed(2)) || '0';\n      priceNumber = priceNumber.replace(/\\D/g, '');\n      priceNumber = Number(priceNumber.substring(0, priceNumber.length - 2) + '.' + priceNumber.substring(priceNumber.length - 2));\n      return priceNumber.toFixed(2).replace(/\\d(?=(\\d{3})+\\.)/g, '$&,');\n    }\n  }]);\n  return FormatterHelper;\n}();",
-          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.FormatterHelper = undefined;\n\nvar _classCallCheck2 = __webpack_require__(/*! babel-runtime/helpers/classCallCheck */ \"./node_modules/babel-runtime/helpers/classCallCheck.js\");\n\nvar _classCallCheck3 = _interopRequireDefault(_classCallCheck2);\n\nvar _createClass2 = __webpack_require__(/*! babel-runtime/helpers/createClass */ \"./node_modules/babel-runtime/helpers/createClass.js\");\n\nvar _createClass3 = _interopRequireDefault(_createClass2);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar FormatterHelper = exports.FormatterHelper = function () {\n  function FormatterHelper() {\n    (0, _classCallCheck3.default)(this, FormatterHelper);\n  }\n\n  (0, _createClass3.default)(FormatterHelper, [{\n    key: 'formatCurrencyMain',\n    value: function formatCurrencyMain(value) {\n      var priceNumber = String(value.toFixed(2)) || '0';\n      priceNumber = priceNumber.replace(/\\D/g, '');\n      priceNumber = Number(priceNumber.substring(0, priceNumber.length - 2) + '.' + priceNumber.substring(priceNumber.length - 2));\n      return priceNumber.toFixed(2).replace(/\\d(?=(\\d{3})+\\.)/g, '$&,');\n    }\n  }]);\n  return FormatterHelper;\n}();\n\n/***/ }"
+          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.FormatterHelper = undefined;\n\nvar _classCallCheck2 = require('babel-runtime/helpers/classCallCheck');\n\nvar _classCallCheck3 = _interopRequireDefault(_classCallCheck2);\n\nvar _createClass2 = require('babel-runtime/helpers/createClass');\n\nvar _createClass3 = _interopRequireDefault(_createClass2);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar FormatterHelper = exports.FormatterHelper = function () {\n  function FormatterHelper() {\n    (0, _classCallCheck3.default)(this, FormatterHelper);\n  }\n\n  (0, _createClass3.default)(FormatterHelper, [{\n    key: 'formatCurrencyMain',\n    value: function formatCurrencyMain(value) {\n      var priceNumber = String(value.toFixed(2)) || '0';\n      return this.convertToBRL(priceNumber);\n    }\n  }, {\n    key: 'convertToBRL',\n    value: function convertToBRL(value) {\n      var stringValue = parseFloat(value).toLocaleString('pt-BR', {\n        style: 'currency',\n        currency: 'BRL',\n        minimumFractionDigits: 2\n      });\n\n      return stringValue;\n    }\n  }]);\n  return FormatterHelper;\n}();",
+          "parsedSrc": "function(module, exports, __webpack_require__) {\n\n\"use strict\";\n\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.FormatterHelper = undefined;\n\nvar _classCallCheck2 = __webpack_require__(/*! babel-runtime/helpers/classCallCheck */ \"./node_modules/babel-runtime/helpers/classCallCheck.js\");\n\nvar _classCallCheck3 = _interopRequireDefault(_classCallCheck2);\n\nvar _createClass2 = __webpack_require__(/*! babel-runtime/helpers/createClass */ \"./node_modules/babel-runtime/helpers/createClass.js\");\n\nvar _createClass3 = _interopRequireDefault(_createClass2);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar FormatterHelper = exports.FormatterHelper = function () {\n  function FormatterHelper() {\n    (0, _classCallCheck3.default)(this, FormatterHelper);\n  }\n\n  (0, _createClass3.default)(FormatterHelper, [{\n    key: 'formatCurrencyMain',\n    value: function formatCurrencyMain(value) {\n      var priceNumber = String(value.toFixed(2)) || '0';\n      return this.convertToBRL(priceNumber);\n    }\n  }, {\n    key: 'convertToBRL',\n    value: function convertToBRL(value) {\n      var stringValue = parseFloat(value).toLocaleString('pt-BR', {\n        style: 'currency',\n        currency: 'BRL',\n        minimumFractionDigits: 2\n      });\n\n      return stringValue;\n    }\n  }]);\n  return FormatterHelper;\n}();\n\n/***/ }"
         },
         {
           "id": "./src/helpers/loadPush.js",
@@ -18128,7 +18128,7 @@
       "name": "./src/components/Cart/index.js",
       "index": 6,
       "index2": 54,
-      "size": 1226,
+      "size": 1227,
       "cacheable": true,
       "built": false,
       "optional": false,
@@ -18176,7 +18176,7 @@
       "optimizationBailout": [
       ],
       "depth": 3,
-      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nrequire('./style.scss');\n\nvar _ProductList = require('../ProductList');\n\nvar _ProductList2 = _interopRequireDefault(_ProductList);\n\nvar _BoxConfirm = require('../BoxConfirm');\n\nvar _BoxConfirm2 = _interopRequireDefault(_BoxConfirm);\n\nvar _Terms = require('../Terms');\n\nvar _Terms2 = _interopRequireDefault(_Terms);\n\nvar _Confirm = require('../Confirm');\n\nvar _Confirm2 = _interopRequireDefault(_Confirm);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nexports.default = function (data) {\n  return '\\n  <div class=\"swiper-container\">\\n    <div class=\"swiper-wrapper\">\\n      <div class=\"swiper-slide\">\\n        <div class=\"wrapper-ecommerce\">\\n          <h2 class=\"title\">Ol\\xE1, o seu assessor montou esse carrinho de produtos para voc\\xEA</h2>\\n          ' + (0, _ProductList2.default)(data.items) + '\\n        </div>\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Terms2.default)(data.items) + '\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Confirm2.default)(data) + '\\n      </div>\\n    </div>\\n  </div>\\n  ' + (0, _BoxConfirm2.default)() + '\\n  ';\n};"
+      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nrequire('./style.scss');\n\nvar _ProductList = require('../ProductList');\n\nvar _ProductList2 = _interopRequireDefault(_ProductList);\n\nvar _BoxConfirm = require('../BoxConfirm');\n\nvar _BoxConfirm2 = _interopRequireDefault(_BoxConfirm);\n\nvar _Terms = require('../Terms');\n\nvar _Terms2 = _interopRequireDefault(_Terms);\n\nvar _Confirm = require('../Confirm');\n\nvar _Confirm2 = _interopRequireDefault(_Confirm);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nexports.default = function (data) {\n  return '\\n  <div class=\"swiper-container\">\\n    <div class=\"swiper-wrapper\">\\n      <div class=\"swiper-slide\">\\n        <div class=\"wrapper-ecommerce\">\\n          <h2 class=\"title\">Ol\\xE1! O seu assessor montou esse carrinho de produtos para voc\\xEA;</h2>\\n          ' + (0, _ProductList2.default)(data.items) + '\\n        </div>\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Terms2.default)(data.items) + '\\n      </div>\\n      <div class=\"swiper-slide\">\\n        ' + (0, _Confirm2.default)(data) + '\\n      </div>\\n    </div>\\n  </div>\\n  ' + (0, _BoxConfirm2.default)() + '\\n  ';\n};"
     },
     {
       "id": "./src/components/Cart/style.scss",
@@ -18245,7 +18245,7 @@
       "name": "./src/components/Confirm/index.js",
       "index": 55,
       "index2": 53,
-      "size": 1548,
+      "size": 1542,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -18298,7 +18298,7 @@
       "optimizationBailout": [
       ],
       "depth": 4,
-      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _Title = require('../Title');\n\nvar _Title2 = _interopRequireDefault(_Title);\n\nrequire('./style.scss');\n\nvar _formaters = require('../../helpers/formaters');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar formatter = new _formaters.FormatterHelper();\n\nexports.default = function (item) {\n  return '\\n    <div class=\"wrapper-confirmation\">\\n      ' + (0, _Title2.default)('Confirmação checkout') + '\\n      <ul class=\"checkout-list\">\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Assessor</span>\\n          <span class=\"checkout-list__desc\">' + item.requesterLogin + '</span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Produtos</span>\\n          <span class=\"checkout-list__desc\">\\n            <ul class=\"checkout-list__list-products\">\\n              ' + item.items.map(function (item) {\n    return '\\n                <li class=\"checkout-list__list-products__item\">' + item.product.name + '<p> R$ ' + formatter.formatCurrencyMain(item.totalValue) + ' </p></li>\\n              ';\n  }).join('') + '\\n            </ul>\\n          </span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Total</span>\\n          <span class=\"checkout-list__desc\">R$ ' + formatter.formatCurrencyMain(item.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </div>\\n  ';\n};"
+      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nvar _Title = require('../Title');\n\nvar _Title2 = _interopRequireDefault(_Title);\n\nrequire('./style.scss');\n\nvar _formaters = require('../../helpers/formaters');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar formatter = new _formaters.FormatterHelper();\n\nexports.default = function (item) {\n  return '\\n    <div class=\"wrapper-confirmation\">\\n      ' + (0, _Title2.default)('Confirmação checkout') + '\\n      <ul class=\"checkout-list\">\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Assessor</span>\\n          <span class=\"checkout-list__desc\">' + item.requesterLogin + '</span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Produtos</span>\\n          <span class=\"checkout-list__desc\">\\n            <ul class=\"checkout-list__list-products\">\\n              ' + item.items.map(function (item) {\n    return '\\n                <li class=\"checkout-list__list-products__item\">' + item.product.name + '<p> ' + formatter.formatCurrencyMain(item.totalValue) + ' </p></li>\\n              ';\n  }).join('') + '\\n            </ul>\\n          </span>\\n        </li>\\n        <li class=\"checkout-list__item\">\\n          <span class=\"checkout-list__title\">Total</span>\\n          <span class=\"checkout-list__desc\">' + formatter.formatCurrencyMain(item.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </div>\\n  ';\n};"
     },
     {
       "id": "./src/components/Confirm/style.scss",
@@ -18499,7 +18499,7 @@
       "name": "./src/components/ProductListItem/index.js",
       "index": 13,
       "index2": 31,
-      "size": 770,
+      "size": 768,
       "cacheable": true,
       "built": false,
       "optional": false,
@@ -18557,7 +18557,7 @@
       "optimizationBailout": [
       ],
       "depth": 5,
-      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nrequire('./style.scss');\n\nvar _formaters = require('../../helpers/formaters');\n\nvar formatterHelper = new _formaters.FormatterHelper();\n\nexports.default = function (items) {\n  return '\\n    <li class=\"product-list__item\">\\n      <ul class=\"product-list__description-item\">\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__product-name\">' + items.product.name + '</span>\\n        </li>\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__title\">SubTotal</span>\\n          <span class=\"product-list__desc\">R$ ' + formatterHelper.formatCurrencyMain(items.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </li>\\n  ';\n};"
+      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\n\nrequire('./style.scss');\n\nvar _formaters = require('../../helpers/formaters');\n\nvar formatterHelper = new _formaters.FormatterHelper();\n\nexports.default = function (items) {\n  return '\\n    <li class=\"product-list__item\">\\n      <ul class=\"product-list__description-item\">\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__product-name\">' + items.product.name + '</span>\\n        </li>\\n        <li class=\"product-list__sub-item\" >\\n          <span class=\"product-list__title\">SubTotal</span>\\n          <span class=\"product-list__desc\"> ' + formatterHelper.formatCurrencyMain(items.totalValue) + '</span>\\n        </li>\\n      </ul>\\n    </li>\\n  ';\n};"
     },
     {
       "id": "./src/components/ProductListItem/style.scss",
@@ -19284,7 +19284,7 @@
       "name": "./src/helpers/formaters.js",
       "index": 16,
       "index2": 30,
-      "size": 1122,
+      "size": 1180,
       "cacheable": true,
       "built": false,
       "optional": false,
@@ -19356,7 +19356,7 @@
       "optimizationBailout": [
       ],
       "depth": 5,
-      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.FormatterHelper = undefined;\n\nvar _classCallCheck2 = require('babel-runtime/helpers/classCallCheck');\n\nvar _classCallCheck3 = _interopRequireDefault(_classCallCheck2);\n\nvar _createClass2 = require('babel-runtime/helpers/createClass');\n\nvar _createClass3 = _interopRequireDefault(_createClass2);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar FormatterHelper = exports.FormatterHelper = function () {\n  function FormatterHelper() {\n    (0, _classCallCheck3.default)(this, FormatterHelper);\n  }\n\n  (0, _createClass3.default)(FormatterHelper, [{\n    key: 'formatCurrencyMain',\n    value: function formatCurrencyMain(value) {\n      var priceNumber = String(value.toFixed(2)) || '0';\n      priceNumber = priceNumber.replace(/\\D/g, '');\n      priceNumber = Number(priceNumber.substring(0, priceNumber.length - 2) + '.' + priceNumber.substring(priceNumber.length - 2));\n      return priceNumber.toFixed(2).replace(/\\d(?=(\\d{3})+\\.)/g, '$&,');\n    }\n  }]);\n  return FormatterHelper;\n}();"
+      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.FormatterHelper = undefined;\n\nvar _classCallCheck2 = require('babel-runtime/helpers/classCallCheck');\n\nvar _classCallCheck3 = _interopRequireDefault(_classCallCheck2);\n\nvar _createClass2 = require('babel-runtime/helpers/createClass');\n\nvar _createClass3 = _interopRequireDefault(_createClass2);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar FormatterHelper = exports.FormatterHelper = function () {\n  function FormatterHelper() {\n    (0, _classCallCheck3.default)(this, FormatterHelper);\n  }\n\n  (0, _createClass3.default)(FormatterHelper, [{\n    key: 'formatCurrencyMain',\n    value: function formatCurrencyMain(value) {\n      var priceNumber = String(value.toFixed(2)) || '0';\n      return this.convertToBRL(priceNumber);\n    }\n  }, {\n    key: 'convertToBRL',\n    value: function convertToBRL(value) {\n      var stringValue = parseFloat(value).toLocaleString('pt-BR', {\n        style: 'currency',\n        currency: 'BRL',\n        minimumFractionDigits: 2\n      });\n\n      return stringValue;\n    }\n  }]);\n  return FormatterHelper;\n}();"
     },
     {
       "id": "./src/helpers/loadPush.js",
@@ -19512,7 +19512,7 @@
           "name": "index.html",
           "size": 5415,
           "chunks": [
-            1
+            0
           ],
           "chunkNames": [
           ]
@@ -19522,7 +19522,7 @@
       "entrypoints": {
         "undefined": {
           "chunks": [
-            1
+            0
           ],
           "assets": [
             "index.html"
@@ -19536,7 +19536,7 @@
       "namedChunkGroups": {
         "undefined": {
           "chunks": [
-            1
+            0
           ],
           "assets": [
             "index.html"
@@ -19549,7 +19549,7 @@
       },
       "chunks": [
         {
-          "id": 1,
+          "id": 0,
           "rendered": false,
           "initial": true,
           "entry": true,
@@ -19559,7 +19559,7 @@
           "files": [
             "index.html"
           ],
-          "hash": "71f2c8bdf5d703f016a7",
+          "hash": "134ff64bdd7f4615f174",
           "siblings": [
           ],
           "parents": [
@@ -19581,7 +19581,7 @@
               "optional": false,
               "prefetched": false,
               "chunks": [
-                1
+                0
               ],
               "issuer": null,
               "issuerId": null,
@@ -19636,7 +19636,7 @@
           "optional": false,
           "prefetched": false,
           "chunks": [
-            1
+            0
           ],
           "issuer": null,
           "issuerId": null,
@@ -19669,5 +19669,7 @@
       ],
       "name": "html-webpack-plugin for \"index.html\""
     }
+  ]
+}  }
   ]
 }
